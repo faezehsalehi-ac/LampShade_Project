@@ -1,23 +1,12 @@
 using System.Collections.Generic;
-/*using _0_Framework.Application.Email;
-using _0_Framework.Application.Sms;
-using _0_Framework.Application.ZarinPal;*/
 using _0_Framework.Application;
-//using AccountManagement.Configuration;
-//using BlogManagement.Infrastructure.Configuration;
-//using CommentManagement.Infrastructure.Configuration;
-//using DiscountManagement.Configuration;
-//using InventoryManagement.Infrastructure.Configuration;
-//using InventoryManagement.Presentation.Api;
-//using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using ServiceHost;
 using ShopManagement.Configuration;
-//using ShopManagement.Presentation.Api;
+
 using System.Configuration;
 using System.Text.Encodings.Web;
 using System.Text.Unicode;
-//using _0_Framework.Infrastructure;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
