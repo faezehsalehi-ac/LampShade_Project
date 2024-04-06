@@ -1,0 +1,9 @@
+D:\pro\PRO3\salehi\MVC_Final_Project\Code\ServiceHost\obj\Debug\net7.0\ServiceHost.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\PRO3\salehi\MVC_Final_Project\Code\ServiceHost\obj\Debug\net7.0\ServiceHost.AssemblyInfoInputs.cache
+D:\pro\PRO3\salehi\MVC_Final_Project\Code\ServiceHost\obj\Debug\net7.0\ServiceHost.AssemblyInfo.cs
+D:\pro\PRO3\salehi\MVC_Final_Project\Code\ServiceHost\obj\Debug\net7.0\ServiceHost.csproj.CoreCompileInputs.cache
+D:\pro\PRO3\salehi\MVC_Final_Project\Code\ServiceHost\obj\Debug\net7.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cache
+D:\pro\PRO3\salehi\MVC_Final_Project\Code\ServiceHost\obj\Debug\net7.0\ServiceHost.RazorAssemblyInfo.cache
+D:\pro\PRO3\salehi\MVC_Final_Project\Code\ServiceHost\obj\Debug\net7.0\ServiceHost.RazorAssemblyInfo.cs
+D:\pro\PRO3\salehi\MVC_Final_Project\Code\ServiceHost\obj\Debug\net7.0\ServiceHost.sourcelink.json
+D:\pro\PRO3\salehi\MVC_Final_Project\Code\ServiceHost\obj\Debug\net7.0\ServiceHost.csproj.AssemblyReference.cache

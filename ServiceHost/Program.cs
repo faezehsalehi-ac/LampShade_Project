@@ -12,7 +12,7 @@ using _0_Framework.Application;
 //using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using ServiceHost;
-using ShopManagement.Configuration;
+//using ShopManagement.Configuration;
 //using ShopManagement.Presentation.Api;
 using System.Configuration;
 using System.Text.Encodings.Web;
@@ -22,8 +22,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Data.Sqlite;
 
+using Newtonsoft.Json;
 var builder = WebApplication.CreateBuilder(args);
 
 
