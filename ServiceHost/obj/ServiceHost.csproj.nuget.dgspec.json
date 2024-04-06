@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\ServiceHost\\ServiceHost.csproj": {}
+    "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\code\\ServiceHost\\ServiceHost.csproj": {}
   },
   "projects": {
-    "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\ServiceHost\\ServiceHost.csproj": {
+    "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\code\\ServiceHost\\ServiceHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\ServiceHost\\ServiceHost.csproj",
+        "projectUniqueName": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\code\\ServiceHost\\ServiceHost.csproj",
         "projectName": "ServiceHost",
-        "projectPath": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\ServiceHost\\ServiceHost.csproj",
+        "projectPath": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\code\\ServiceHost\\ServiceHost.csproj",
         "packagesPath": "C:\\Users\\salehi-f\\.nuget\\packages\\",
-        "outputPath": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\ServiceHost\\obj\\",
+        "outputPath": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\code\\ServiceHost\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\salehi-f\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\0_Framework\\0_Framework.csproj": {}
+    "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\_0_Framework\\0_Framework.csproj": {}
   },
   "projects": {
-    "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\0_Framework\\0_Framework.csproj": {
+    "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\_0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\0_Framework\\0_Framework.csproj",
-        "projectName": "0_Framework",
-        "projectPath": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\0_Framework\\0_Framework.csproj",
+        "projectUniqueName": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\_0_Framework\\_0_Framework.csproj",
+        "projectName": "_0_Framework",
+        "projectPath": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\_0_Framework\\_0_Framework.csproj",
         "packagesPath": "C:\\Users\\salehi-f\\.nuget\\packages\\",
-        "outputPath": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\0_Framework\\obj\\",
+        "outputPath": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\_0_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\salehi-f\\AppData\\Roaming\\NuGet\\NuGet.Config"

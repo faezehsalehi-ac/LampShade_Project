@@ -12,7 +12,7 @@ using _0_Framework.Application;
 //using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Builder;
 using ServiceHost;
-//using ShopManagement.Configuration;
+using ShopManagement.Configuration;
 //using ShopManagement.Presentation.Api;
 using System.Configuration;
 using System.Text.Encodings.Web;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qGNEdw6hKED6PWlB1eXasyVvyna9sUH/KpsNG2LhomtIwFXN+HukZRXYwpQdODfHS8+Llew3XBBOgaUfkLXWnA==",
+  "dgSpecHash": "VsIGggkLcUuMYynoGeThK7nx2W9/Bf8AXD3QYJGP64PT2scdv0QLNOIsicb63ajVZV4WF739RJTyRaOswhbyJA==",
   "success": true,
-  "projectFilePath": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\Code\\ServiceHost\\ServiceHost.csproj",
+  "projectFilePath": "D:\\pro\\PRO3\\salehi\\MVC_Final_Project\\code\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salehi-f\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
