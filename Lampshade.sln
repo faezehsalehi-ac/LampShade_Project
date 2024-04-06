@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Framework", "0_Framework\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Infrastructure.EFCore", "ShopManagement.Infrastructure.EFCore\ShopManagement.Infrastructure.EFCore.csproj", "{2A8230ED-8A7E-4E79-B717-49BFA407DA1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Configuration", "ShopManagement.Configuration\ShopManagement.Configuration.csproj", "{B278E61F-3981-4BA7-8216-10BCE5A3C49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{23D03930-C1F2-468E-AEED-382C6F50C369}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{2A8230ED-8A7E-4E79-B717-49BFA407DA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A8230ED-8A7E-4E79-B717-49BFA407DA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A8230ED-8A7E-4E79-B717-49BFA407DA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B278E61F-3981-4BA7-8216-10BCE5A3C49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B278E61F-3981-4BA7-8216-10BCE5A3C49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B278E61F-3981-4BA7-8216-10BCE5A3C49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B278E61F-3981-4BA7-8216-10BCE5A3C49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D03930-C1F2-468E-AEED-382C6F50C369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D03930-C1F2-468E-AEED-382C6F50C369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D03930-C1F2-468E-AEED-382C6F50C369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D03930-C1F2-468E-AEED-382C6F50C369}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
